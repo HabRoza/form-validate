@@ -1,0 +1,19 @@
+Git: Source code control 
+
+Github: free
+
+Github,gitlab,bitbucket
+
+gitlab:private
+
+window:git download and then install
+
+register account with git(github,gitlab)
+
+-responsitory
+-group can have many repository
+
+
+
+-------------------------------------------------------------------
+-git init :init to know git hub
