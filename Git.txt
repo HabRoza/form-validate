@@ -19,3 +19,6 @@ register account with git(github,gitlab)
 -git init :init to know git hub
 -------------
 create new master
+
+-create branch nameofbranch
+-checkout 
